@@ -1,4 +1,8 @@
 tes aja bisa gak
 
 
+<<<<<<< .merge_file_X60fIM
 coba edit
+=======
+edit
+>>>>>>> .merge_file_d6WuuJ
